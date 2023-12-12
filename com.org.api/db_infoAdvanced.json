@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "info": [
+        {
+          "email": "info@appium-selenium.com",
+          "phone": "123456",
+          "address": "address line"
+        },
+        {
+          "email": "test@gmail.com",
+          "phone": "2222222",
+          "address": "address line 2"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "title",
+      "author": "author",
+      "info": [
+        {
+          "email": "test email 1",
+          "phone": "test phone 1",
+          "address": "test address 1"
+        },
+        {
+          "email": "test email 2",
+          "phone": "test phone 2",
+          "address": "test address 2"
+        }
+      ]
+    }
+  ]
+}
